@@ -1,7 +1,7 @@
 
 /**
  *
- * @param {String} title 
+ * @param {String} title
  * @returns title withOutSpaces
  */
 const withOutSpaces = (title) => {
@@ -10,7 +10,7 @@ const withOutSpaces = (title) => {
 }
 
 
-const title = "12Match Characters that Occur One or More Times";
+const title = "13Match Characters that Occur Zero or More Times";
 console.log('====================================');
 console.log(withOutSpaces(title));
 console.log('====================================');
