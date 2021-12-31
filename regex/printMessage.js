@@ -10,7 +10,7 @@ const withOutSpaces = (title) => {
 }
 
 
-const title = "13Match Characters that Occur Zero or More Times";
+const title = "14Find Characters with Lazy Matching";
 console.log('====================================');
 console.log(withOutSpaces(title));
 console.log('====================================');
